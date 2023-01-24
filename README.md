@@ -2,6 +2,8 @@
 <h3 align="center"> или чуть-чуть побольше</h3>
 
 Сайт рассказывает о деятельности DH-исследователей Кешишян Марии и Розман Иланы. 
+
+<img src="static/images/mary.jpeg" height="200"/> <img src="static/images/lana.jpg" height="200"/> 
+
 Мы любим пить кофе, читать книги и думать, как решать проблемы современной науки.
 
-<img src="static/images/lana.jpg" height="32"/>
