@@ -7,4 +7,4 @@
 
 Мы любим пить кофе, читать книги и думать, как решать проблемы современной науки.
 
-[![Top Langs](https://github.com/MariaKeshish/webdev.git)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
