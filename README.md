@@ -6,12 +6,12 @@
 
 ## Инструменты
 Для создания проекта были использованы языки HTML, CSS, Python
-<h5 align="center"> <img src="static/images/mary.jpeg" height="200"/> <img src="static/images/lana.jpg" height="200"/>
+
 
 ## Authors
 
-- [@LanaRozman](https://github.com/LanaRozman)
-- [@MariaKeshish](https://github.com/MariaKeshish)
+- [@LanaRozman](https://github.com/LanaRozman)                                  - [@MariaKeshish](https://github.com/MariaKeshish)
 
+<h5 align="center"> <img src="static/images/lana.jpg" height="200"/>             <img src="static/images/mary.jpeg" height="200"/> 
 
 
